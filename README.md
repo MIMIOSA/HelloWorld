@@ -12,19 +12,20 @@
 
 
 
-**我是个什么样的人**
-
 ***
+
+**1. 我是个什么样的人**
+
 
 恩，应该是个很纠结矛盾的个体。有点强迫症和完美主义但又是有些懒散随性。细腻温柔的外表下隐藏了一颗狂野的内心。可能有些癫狂和精分吧
 
 ![try](http://a3.qpic.cn/psb?/V11MP0aD4b0OuR/AgMZqlr1Q065b7tB1OcYImSGBA4T8rpToaeZ2lObqSo!/b/dNoAAAAAAAAA&bo=gAKAAgAAAAAFByQ!&rf=viewer_4)
 
 
-
-**兴趣爱好**
-
 ***
+
+**2. 兴趣爱好**
+
 
 挺多的啊。
 
