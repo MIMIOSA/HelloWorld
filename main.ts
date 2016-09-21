@@ -1,4 +1,4 @@
-function Myfunction(num:number){
+function Myfunction(num:number):void{
 
     var a, b, c: number;
     var star, space, final: string;
@@ -19,4 +19,6 @@ function Myfunction(num:number){
     final = space + star;
     console.log(space + star);
     }   
+    var x:string = process.argv[2]
+    Myfunction(parseInt(x));
 }

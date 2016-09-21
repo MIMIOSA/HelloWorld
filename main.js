@@ -18,4 +18,6 @@ function Myfunction(num) {
         final = space + star;
         console.log(space + star);
     }
+    var x = process.argv[2];
+    Myfunction(parseInt(x));
 }
