@@ -6,7 +6,7 @@ function Myfunction(num:number):void{
     for (a = 0; a < num; a++) {
         star = "";
         space = "";
-        final = ""
+        final = "";
 
         for (b = 0; b < (num - a - 1); b++) {
             space += " ";
@@ -16,8 +16,8 @@ function Myfunction(num:number):void{
             star += "*";
         }
 
-    final = space + star;
-    console.log(space + star);
+        final = space + star;
+        console.log(space + star);
     }   
 }
 
