@@ -21,5 +21,5 @@ function Myfunction(num:number):void{
     }   
 }
 
-    var x:string = process.argv[2]
-    Myfunction(parseInt(x));
+var x:string = process.argv[2]
+Myfunction(parseInt(x));
