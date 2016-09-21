@@ -19,6 +19,7 @@ function Myfunction(num:number):void{
     final = space + star;
     console.log(space + star);
     }   
+}
+
     var x:string = process.argv[2]
     Myfunction(parseInt(x));
-}
