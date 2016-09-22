@@ -1,11 +1,10 @@
-function Myfunction(num) {
+function DrawPyramid(num) {
     var a, b, c;
-    var star, space, final;
+    var star, space;
 
     for (a = 0; a < num; a++) {
         star = "";
         space = "";
-        final = "";
 
         for (b = 0; b < (num - a - 1); b++) {
             space += " ";
@@ -14,11 +13,9 @@ function Myfunction(num) {
         for (c = 0; c < (2 * a + 1); c++) {
             star += "*";
         }
-
-        final = space + star;
         console.log(space + star);
     }
 }
 
 var x = process.argv[2];
-Myfunction(parseInt(x));
+DrawPyramid(parseInt(x));
